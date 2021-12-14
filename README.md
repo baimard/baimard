@@ -1,4 +1,4 @@
-<p align="center"><h2>Hi there 👋 I'm Benjamin<br/>I do open source code, for a better world 😄</h2></p>
+<center><h2>Hi there 👋 I'm Benjamin<br/>I do open source code, for a better world 😄</h2></center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baimard&show_icons=true)
 
