@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=baimard&count_private=true&show_icons=true&custom_title=Benjamin>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=baimard&layout=compact>
+  <!--<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=baimard&layout=compact>-->
 </p>
 
 <a href="https://www.buymeacoffee.com/benjaminaimard"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=benjaminaimard&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
