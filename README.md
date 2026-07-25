@@ -1,4 +1,3 @@
-```md
 <h2 align="center">
 Hi there 👋 I'm Benjamin
 <br/>
@@ -65,4 +64,3 @@ Resources
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
-```
